@@ -1,18 +1,18 @@
 SCP-173
-Class-D Personnel
+D-boi
 Spectator
 SCP-106
-Nine-Tailed Fox Scientist
+GRE Scientist
 SCP-049
-Scientist
+GRE Agent
 SCP-079
-Chaos Insurgency
+Rais' people
 SCP-096
 SCP-049-2
-Nine-Tailed Fox Lieutenant
-Nine-Tailed Fox Commander
-Nine-Tailed Fox Cadet
+GRE Lieutenant
+GRE Commander
+GRE Cadet
 Tutorial
-Facility Guard
+GRE Guard
 SCP-939-53
 SCP-939-89
